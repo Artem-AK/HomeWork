@@ -1,0 +1,35 @@
+:root {
+    --width-content: 1024px;
+    --main-font: 'Open Sans', sans-serif;
+
+    --font-md:16px;
+
+    /*font-size for header*/
+    --font-sm_header: 16px;
+    --font-md_header: 20px;
+
+
+    /*font-size for banner*/
+    --font-sm_banner: 20px;
+    --font-md_banner: 26px;
+    --font-lg_banner: 42px;
+
+    /*font-size for services*/
+    --font-sm_services: 14px;
+    --font-md_services: 20px;
+
+    /*font-size for shopping_cart*/
+    --font-sm_shopping_cart: 15px;
+    --font-md_shopping_cart: 26px;
+    --font-lg_shopping_cart: 42px;
+
+    --container-x-offset: 15px;
+    --container-y-offset: 0;
+
+    --circle-2-color: #d94748;
+    --circle-3-color: #ebbb11;
+
+    --main-font-color: #6c6c6c;
+    --secondary-color: #5094f2;
+
+}

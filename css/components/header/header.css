@@ -1,0 +1,29 @@
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+header menu {
+    display: flex;
+    margin-right: 20px;
+    font-size: var(--font-md_header);
+}
+
+header menu li {
+    padding: 25px 12px;
+    list-style: none;
+    border-bottom:  2px solid transparent;
+}
+
+header menu li.active,
+header menu li:hover {
+    border-bottom-color: var(--secondary-color);
+}
+
+
+header menu a {
+    text-decoration: none;
+    color: var(--main-font-color);
+}

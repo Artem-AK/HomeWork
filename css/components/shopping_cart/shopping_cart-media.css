@@ -1,0 +1,70 @@
+@media (max-width: 767px) {
+    .bottom-content {
+        display: block;
+        margin-top: 35px;
+    }
+
+    .info-right {
+        color: var(--main-font-color);
+        line-height: 25px;
+        margin: 0 auto;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .info-right h3 {
+        font-size: 23px;
+    }
+
+    .info-right p {
+        font-size: 12px;
+    }
+
+    .title {
+        font-size: 39px;
+        text-align: center;
+    }
+    
+    .shopping-basket img {
+        width: 250px;
+    }
+
+    .shopping-basket {
+        width: 250px;
+        height: 188px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 400px) {
+    .title {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 300px) {
+    .shopping-basket {
+        width: 160px;
+        height: 120px;
+    }
+
+    .shopping-basket img {
+        width: 160px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .info-right h3 {
+        font-size: 14px;
+    }
+
+    .info-right p {
+        font-size: 11px;
+    }
+    
+    .bottom-content {
+        margin: 0 auto;
+    }
+}

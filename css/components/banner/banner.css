@@ -1,0 +1,50 @@
+section {
+    background-image: url(../../../img/background-banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.banner {
+    display: flex;
+}
+
+.right-info {
+    color: white;
+    margin:150px 0px 0px 105px;
+    line-height: 31px;
+}
+
+.right-info h4 {
+    font-size: var(--font-lg_banner); 
+    margin-bottom: 10px;
+}
+
+.right-info p { 
+    line-height: 38px;
+    font-size: var(--font-md_banner);
+}
+
+.phone {
+    margin-top: 32px;
+    margin-left: 32px;
+    padding-bottom: 10px;
+}
+
+.btn {
+    display: flex;
+    background-color: var(--secondary-color);
+    text-decoration: none;
+    color: white;
+    border-radius: 2px;
+    align-items: center;
+    width: 170px;
+    height: 40px;
+    font-size: var(--font-sm_banner);
+    margin: 27px 0px 0px 10px;
+}
+
+.picture {
+    margin: 0px 10px 1px 10px;
+}

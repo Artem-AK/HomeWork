@@ -1,0 +1,48 @@
+.item {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    justify-content: space-between;
+}
+
+.img-flex{
+    display: flex; 
+    width: 186px;
+    height: 186px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;  
+    margin: 0 auto;
+}
+
+
+.circle-1 {
+    background-color: var(--secondary-color);
+}
+
+.circle-2 {
+    background-color: var(--circle-2-color);
+}
+
+.circle-3 {
+    background-color: var(--circle-3-color);
+}
+
+.services-info {
+    width: 250px;
+}
+
+.services-info h3 {
+    color: var(--secondary-color);
+    text-align:center;
+    margin-top: 26px;
+    font-size: var(--font-md_services);
+}
+
+.services-info p {
+    text-align: center;
+    color: var(--main-font-color);
+    font-size: var(--font-sm_services);
+    margin-top: 15px;
+}
+

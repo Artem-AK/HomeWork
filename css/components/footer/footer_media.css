@@ -1,0 +1,21 @@
+@media (max-width: 767px) {
+    
+    .footer-wrapper {
+        font-size: 13px;
+    }
+
+    .footer-wrapper p a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 400px) {
+ 
+    .footer-wrapper {
+        font-size: 10px;
+    }
+    
+    .footer-wrapper p a {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,11 @@
+body {
+    font-family: var(--main-font);
+    font-size: var(--font-md);
+}
+
+.container {
+    max-width: var(--width-content);
+    margin: 0 auto;
+    padding: var(--container-y-offset) var(--container-x-offset);
+    box-sizing: border-box;
+}

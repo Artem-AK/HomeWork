@@ -1,0 +1,29 @@
+
+
+.title {
+    font-size: var(--font-lg_shopping_cart);
+    color: var(--main-font-color);
+}
+
+.bottom-content {
+    display: flex;
+    margin-top: 35px;
+    margin-bottom: 55px;
+}
+
+.info-right{
+    width: 455px;
+    color: var(--main-font-color);
+    line-height: 35px;
+    margin: -19px 0px 0 auto;
+    
+}
+
+.info-right h3 {
+    font-size: var(--font-md_shopping_cart);
+    
+}
+
+.info-right p {
+    font-size: var(--font-sm_shopping_cart);
+}

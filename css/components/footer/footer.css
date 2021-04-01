@@ -1,0 +1,18 @@
+footer {
+    border-top: 1px solid;
+    border-color: #e5e5e5;
+}
+
+.footer-wrapper {
+    font-size: var(--font-md);
+    color: var(--main-font-color);
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: 34px;
+}
+
+.footer-wrapper a {
+    text-decoration: none;
+    font-size: var(--font-md);
+    color: var(--main-font-color);
+}
